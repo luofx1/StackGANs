@@ -1,0 +1,8 @@
+birds_stageI
+output
+code/*.pyc
+code/miscc/*.pyc
+data/*
+backup
+.DS_Store
+.idea/
