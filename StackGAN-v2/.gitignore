@@ -1,0 +1,8 @@
+backup
+output
+data
+models/birds_3stages/*
+code/*.pyc
+code/miscc/*.pyc
+.DS_Store
+.idea/
